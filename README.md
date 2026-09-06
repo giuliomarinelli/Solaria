@@ -1,5 +1,5 @@
 # Solaria
-Solaria è un viedogame creato con GPT-6 Astra attraverso un unico prompt:
+Solaria è un viedogame creato con GPT-6. Astra attraverso un unico prompt:
 > Proviamo le funzionalità di GPT-6 Astra
  Crea la demo di un videogame come webapp.
  Il personaggio è una ragazza con i capelli blu chiamata Solaria, snella e agile, ma se trova i 7 rubini della verità, le sue punte diventano dorate.
